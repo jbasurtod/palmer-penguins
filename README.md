@@ -4,6 +4,8 @@
 
 Welcome to the GitHub repository for the Principal Component Analysis (PCA) project on the Palmer Archipelago penguins dataset. This repository contains code and documentation related to analyzing the physical characteristics of penguins using PCA.
 
+You can find this code in action in the following [Kaggle Notebook](https://www.kaggle.com/code/jbasurtod/principal-component-analysis-on-palmer-penguins).
+
 ## Overview
 
 The Palmer Archipelago penguins dataset provides detailed measurements of three penguin species: Adelie, Chinstrap, and Gentoo. The dataset includes key physical measurements such as culmen length, culmen depth, flipper length, body mass, and sex.
