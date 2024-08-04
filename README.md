@@ -34,10 +34,9 @@ The dataset used for this analysis is included in the `data` folder:
 
 ## Files in This Repository
 
-- `pca_analysis.ipynb`: The main Jupyter Notebook containing the PCA analysis and results.
+- `principal-component-analysis-on-palmer-penguins.ipynb`: The main Jupyter Notebook containing the PCA analysis and results.
 - `lib.py`: A Python script containing helper functions used in the analysis.
 - `data/penguins_size.csv`: The dataset used for PCA.
-- `requirements.txt`: A file listing the Python packages required to run the notebook.
 
 ## Installation
 
